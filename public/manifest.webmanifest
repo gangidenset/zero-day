@@ -1,0 +1,19 @@
+{
+  "name": "PROJECT: ZERO DAY",
+  "short_name": "ZERO DAY",
+  "description": "架空企業のシステムを調べて弱点を見つけ、設定を直して再テストするセキュリティ学習ゲーム",
+  "lang": "ja",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060b16",
+  "theme_color": "#060b16",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
